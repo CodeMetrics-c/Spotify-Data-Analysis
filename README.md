@@ -14,9 +14,24 @@ Kaggle Project: Spotify Data Analysis Spotify
 Kaggle Spotify Datasets: Spotify Tracks & Spotify Features
 
 # Objective
-Descriptive statistics of Spotify tracks
+1.Descriptive statistics of Spotify tracks
+2.Top 10 most popular songs on Spotify
+3.Top 10 least popular songs on Spotify
+4.Correlation Heatmap between Variable
 ![ss1](https://github.com/CodeMetrics-c/Spotify-Data-Analysis/assets/144327854/8d1c55e6-2731-48ca-8fcb-2ffccf6e2158)
 
-Top 10 most popular songs on Spotify
-Top 10 least popular songs on Spotify
-Correlation Heatmap between Variable
+
+
+Top 1![ss2](https://github.com/CodeMetrics-c/Spotify-Data-Analysis/assets/144327854/a5333b41-19db-4580-8e5d-e3b1ec35a8e1)
+
+
+
+0 most ![ss3](https://github.com/CodeMetrics-c/Spotify-Data-Analysis/assets/144327854/4adf3e4d-ad36-42bd-9601-705a819af194)
+
+
+popul![ss4](https://github.com/CodeMetrics-c/Spotify-Data-Analysis/assets/144327854/c067b829-250e-43c0-8084-568811609214)
+
+![ss5](https://github.com/CodeMetrics-c/Spotify-Data-Analysis/assets/144327854/d8f8e29f-2517-44a4-a3e7-16c081f38988)
+
+Top ![ss6](https://github.com/CodeMetrics-c/Spotify-Data-Analysis/assets/144327854/bf43e744-4fdd-4e07-9719-e58091d566e1)
+
