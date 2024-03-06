@@ -29,9 +29,11 @@ Top 1![ss2](https://github.com/CodeMetrics-c/Spotify-Data-Analysis/assets/144327
 0 most ![ss3](https://github.com/CodeMetrics-c/Spotify-Data-Analysis/assets/144327854/4adf3e4d-ad36-42bd-9601-705a819af194)
 
 7.Distibution plot - Visualize total number of songs on Spotify since 1992
+
 popul![ss4](https://github.com/CodeMetrics-c/Spotify-Data-Analysis/assets/144327854/c067b829-250e-43c0-8084-568811609214)
 
 8.Duration of songs in different Genres
+
 ![ss5](https://github.com/CodeMetrics-c/Spotify-Data-Analysis/assets/144327854/d8f8e29f-2517-44a4-a3e7-16c081f38988)
 
 9.Top 5 Genres by Popularity
